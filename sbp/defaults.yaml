@@ -1,0 +1,3 @@
+sbp:
+  directories:
+    schroots: /var/lib/schroot
